@@ -10,7 +10,7 @@ YTL SyncChat is a solution for creators who use YouTube chat in prolonged direct
   <img src="https://github.com/TheRealHuzy/YTL-SyncChat/blob/main/Assets/Gif1.gif" />
 </p>
 
-### Warning: Live chat on the web page in application must be scrolled down because it is a message source
+### ⚠️ Warning: Live chat on the web page in application must be scrolled down because it is a message source
 ***
 
 ### Features
