@@ -16,7 +16,7 @@ YTL SyncChat is a solution for creators who use YouTube chat in prolonged direct
 ### Features
 * continuous live chat update
 * no auto-scroll/chat "jumping"
-* all chat and payed chat message separation
+* all chat and paid chat message separation
 
 
 ### Setup
