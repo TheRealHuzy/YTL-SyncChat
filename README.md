@@ -3,6 +3,8 @@
 # YTL-SyncChat
 YouTube Live chat interface for creators highly engaged with their viewers
 
+## [🡇 Download here 🡇](https://github.com/TheRealHuzy/YTL-SyncChat/releases/download/YTL-SyncChat/YTL-SyncChat.v1.0.zip)
+
 ### App description:
 YTL SyncChat is a solution for creators who use YouTube chat in prolonged direct cummonication with viewers. Interaction requires being able to see the currect message which prevents new messages from being loaded. YouTube chat implementation requires user to request newest messages in order to update chat. This causes "jumping" to the newest messages once the creator reached the end of already loaded messages and a need to search for the last message that creator interacted with. This application does not "jump"/auto-scroll and is loading new messages as they arrive.
 
@@ -11,8 +13,6 @@ YTL SyncChat is a solution for creators who use YouTube chat in prolonged direct
 </p>
 
 ### ⚠️ Warning: Live chat on the web page in application must be scrolled down because it is a message source
-
-## [🡇 Download here 🡇](https://github.com/TheRealHuzy/YTL-SyncChat/releases/download/YTL-SyncChat/YTL-SyncChat.v1.0.zip)
 
 
 ### Features
